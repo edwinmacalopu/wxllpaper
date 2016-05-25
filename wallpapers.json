@@ -1,1 +1,17 @@
 
+{
+	"wallpapers": [
+		{
+			"author": "sergio ventura",
+			"url": "https://raw.githubusercontent.com/edwinMD/ecran/master/wall_1.jpg",
+			     "name": "wall_1"
+		},
+		{
+				"author": "deer",
+			"url": "https://raw.githubusercontent.com/edwinMD/ecran/master/wall_2.jpg",
+			     "name": "wall_2"
+		}
+		
+	]
+}
+
