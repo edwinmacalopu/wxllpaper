@@ -2,6 +2,41 @@
 	"wallpapers": [
 		
 		{
+				"author": "Joshua Schwenk",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20194.jpg",
+			     "name": "New 194",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20194pre.jpg"
+		        
+		},
+		{
+				"author": "Johannes Hoehn",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20193.jpg",
+			     "name": "New 193",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20193pre.jpg"
+		        
+		},
+		{
+				"author": "Gabriel Rivera",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20192.jpg",
+			     "name": "New 192",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20192pre.jpg"
+		        
+		},
+		{
+				"author": "David Schermann",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20191.jpg",
+			     "name": "New 191",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20191pre.jpg"
+		        
+		},
+		{
+				"author": "Berty Mandagie",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20190.jpg",
+			     "name": "New 190",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20190pre.jpg"
+		        
+		},
+		{
 				"author": "Kyle Kuiper",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20189.jpg",
 			     "name": "New 189",
