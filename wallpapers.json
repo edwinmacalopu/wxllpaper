@@ -2,6 +2,20 @@
 	"wallpapers": [
 		
 		{
+				"author": "Rutwik Patel",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20230.jpg",
+			     "name": "New 230",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20230pre.jpg"
+		        
+		},
+		{
+				"author": "Rutwik Patel",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20229.jpg",
+			     "name": "New 229",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20229pre.jpg"
+		        
+		},
+		{
 				"author": "thomas freitas",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20228.jpg",
 			     "name": "New 228",
