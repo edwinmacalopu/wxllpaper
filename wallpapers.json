@@ -1,6 +1,27 @@
 {
 	"wallpapers": [
 		
+		{
+				"author": "thomas freitas",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20228.jpg",
+			     "name": "New 228",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20228pre.jpg"
+		        
+		},
+		{
+				"author": "thomas freitas",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20227.jpg",
+			     "name": "New 227",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20227pre.jpg"
+		        
+		},
+		{
+				"author": "thomas freitas",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20226.jpg",
+			     "name": "New 226",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20226pre.jpg"
+		        
+		},
          	{
 				"author": "Lucas rodriguez",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20225.jpg",
