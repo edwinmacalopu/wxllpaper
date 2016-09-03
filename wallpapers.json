@@ -1,6 +1,12 @@
 {
 	"wallpapers": [
-		
+		{
+				"author": "Abdul Azim",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20256.jpg",
+			     "name": "New 256",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20256pre.jpg"
+		        
+		},
 		{
 				"author": "Abdul Azim",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20255.jpg",
