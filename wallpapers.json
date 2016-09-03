@@ -1,7 +1,34 @@
 {
 	"wallpapers": [
 		
-		
+		{
+				"author": "jon west",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20263.jpg",
+			     "name": "New 263",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20263pre.jpg"
+		        
+		},
+		{
+				"author": "jon west",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20262.jpg",
+			     "name": "New 262",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20262pre.jpg"
+		        
+		},
+		{
+				"author": "jon west",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20261.jpg",
+			     "name": "New 261",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20261pre.jpg"
+		        
+		},
+		{
+				"author": "jon west",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20260.jpg",
+			     "name": "New 260",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20260pre.jpg"
+		        
+		},
 		{
 				"author": "venks",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20259.jpg",
