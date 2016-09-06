@@ -2,6 +2,13 @@
 	"wallpapers": [
 		
 		{
+				"author": "Rodion Kutsaev",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20272.jpg",
+			     "name": "New 272",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20272pre.jpg"
+		        
+		},
+		{
 				"author": "Hayyan Almemsani",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20271.jpg",
 			     "name": "New 271",
