@@ -2,6 +2,13 @@
 	"wallpapers": [
 		
 		{
+				"author": "Sebastien gabriel",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20286.jpg",
+			     "name": "New 286",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20286pre.jpg"
+		        
+		},
+		{
 				"author": "Christian Bardenhorst",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20285.jpg",
 			     "name": "New 285",
