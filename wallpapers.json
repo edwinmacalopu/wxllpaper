@@ -2,6 +2,20 @@
 	"wallpapers": [
 		
 		{
+				"author": "dylan shwartz",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20297.jpg",
+			     "name": "New 297",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20297pre.jpg"
+		        
+		},
+		{
+				"author": "dylan shwartz",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20296.jpg",
+			     "name": "New 296",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20296pre.jpg"
+		        
+		},
+		{
 				"author": "Abdul Azim",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20295.jpg",
 			     "name": "New 295",
