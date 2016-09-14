@@ -2,6 +2,13 @@
 	"wallpapers": [
 		
 		{
+				"author": "Geran de Klerk",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20301.jpg",
+			     "name": "New 301",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20301pre.jpg"
+		        
+		},
+		{
 				"author": "Google earth",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20300.jpg",
 			     "name": "New 300",
