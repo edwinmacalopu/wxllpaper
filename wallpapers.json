@@ -2,6 +2,13 @@
 	"wallpapers": [
 		
 		{
+				"author": "Connor McSheffrey",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20302.jpg",
+			     "name": "New 302",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20302pre.jpg"
+		        
+		},
+		{
 				"author": "Geran de Klerk",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20301.jpg",
 			     "name": "New 301",
