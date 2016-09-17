@@ -2,6 +2,13 @@
 	"wallpapers": [
 		
 		{
+				"author": "Aaron Burden",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20308.jpg",
+			     "name": "New 308",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20308pre.jpg"
+		        
+		},
+		{
 				"author": "Iggy",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20307.jpg",
 			     "name": "New 307",
