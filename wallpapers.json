@@ -2,6 +2,20 @@
 	"wallpapers": [
 		
 		{
+				"author": "Iggy",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20307.jpg",
+			     "name": "New 307",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20307pre.jpg"
+		        
+		},
+		{
+				"author": "Iggy",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20306.jpg",
+			     "name": "New 306",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20306pre.jpg"
+		        
+		},
+		{
 				"author": "Felicia Simion",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20305.jpg",
 			     "name": "New 305",
