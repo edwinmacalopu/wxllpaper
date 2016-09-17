@@ -2,6 +2,13 @@
 	"wallpapers": [
 		
 		{
+				"author": "Jennifer Pallian",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20309.jpg",
+			     "name": "New 309",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20309pre.jpg"
+		        
+		},
+		{
 				"author": "Aaron Burden",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20308.jpg",
 			     "name": "New 308",
