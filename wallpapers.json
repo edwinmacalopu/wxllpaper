@@ -2,6 +2,13 @@
 	"wallpapers": [
 		
 		{
+				"author": "Ezra Jeffrey",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20312.jpg",
+			     "name": "New 312",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20312pre.jpg"
+		        
+		},
+		{
 				"author": "John Salzarulo",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20311.jpg",
 			     "name": "New 311",
