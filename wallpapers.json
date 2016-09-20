@@ -2,6 +2,13 @@
 	"wallpapers": [
 		
 		{
+				"author": "David schermann",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20318.jpg",
+			     "name": "New 318",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20318pre.jpg"
+		        
+		},
+		{
 				"author": "Jon west",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20317.jpg",
 			     "name": "New 317",
