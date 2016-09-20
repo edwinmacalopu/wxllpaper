@@ -2,6 +2,20 @@
 	"wallpapers": [
 		
 		{
+				"author": "Jon west",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20317.jpg",
+			     "name": "New 317",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20317pre.jpg"
+		        
+		},
+		{
+				"author": "Jon west",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20316.jpg",
+			     "name": "New 316",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20316pre.jpg"
+		        
+		},
+		{
 				"author": "Rutwik Patel",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20315.jpg",
 			     "name": "New 315",
