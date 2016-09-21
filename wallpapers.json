@@ -2,6 +2,14 @@
 	"wallpapers": [
 		
 		{
+				"author": "Simon hagg",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20322.jpg",
+			     "name": "New 322",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20322pre.jpg"
+		        
+		},
+		
+		{
 				"author": "Earth",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20321.jpg",
 			     "name": "New 321",
