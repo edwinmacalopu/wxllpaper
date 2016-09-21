@@ -2,6 +2,13 @@
 	"wallpapers": [
 		
 		{
+				"author": "Earth",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20321.jpg",
+			     "name": "New 321",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20321pre.jpg"
+		        
+		},
+		{
 				"author": "Pixel",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20320.jpg",
 			     "name": "New 320",
