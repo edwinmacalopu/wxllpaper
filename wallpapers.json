@@ -2,6 +2,13 @@
 	"wallpapers": [
 		
 		{
+				"author": "Downeast",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20324.jpg",
+			     "name": "New 324",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20324pre.jpg"
+		        
+		},
+		{
 				"author": "Kyle Kuiper",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20323.jpg",
 			     "name": "New 323",
