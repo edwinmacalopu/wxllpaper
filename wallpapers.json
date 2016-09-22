@@ -2,6 +2,13 @@
 	"wallpapers": [
 		
 		{
+				"author": "Lucas rodriguez",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20325.jpg",
+			     "name": "New 325",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20325pre.jpg"
+		        
+		},
+		{
 				"author": "Downeast",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20324.jpg",
 			     "name": "New 324",
