@@ -1,7 +1,13 @@
 {
 	"wallpapers": [
 		
-		
+		{
+				"author": "tentree",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20338.jpg",
+			     "name": "New 338",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20338pre.jpg"
+		        
+		},
 		{
 				"author": "Viktor Hanacek",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20337.jpg",
