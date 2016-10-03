@@ -2,6 +2,13 @@
 	"wallpapers": [
 		
 		{
+				"author": "Jeff Hopper",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20342.jpg",
+			     "name": "New 342",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20342pre.jpg"
+		        
+		},
+		{
 				"author": "Antonio Carrillo",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20341.jpg",
 			     "name": "New 341",
