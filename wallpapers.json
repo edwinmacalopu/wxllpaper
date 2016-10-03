@@ -2,6 +2,13 @@
 	"wallpapers": [
 		
 		{
+				"author": "findpix",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20339.jpg",
+			     "name": "New 339",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20339pre.jpg"
+		        
+		},
+		{
 				"author": "tentree",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20338.jpg",
 			     "name": "New 338",
