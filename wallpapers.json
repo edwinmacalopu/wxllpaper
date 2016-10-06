@@ -2,6 +2,13 @@
 	"wallpapers": [
 		
 		{
+				"author": "Gregoire",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20350.jpg",
+			     "name": "New 350",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20350pre.jpg"
+		        
+		},
+		{
 				"author": "Abdul Azim",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20349.jpg",
 			     "name": "New 349",
