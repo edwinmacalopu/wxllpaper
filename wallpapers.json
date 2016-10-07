@@ -2,6 +2,13 @@
 	"wallpapers": [
 		
 		{
+				"author": "google earth",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20355.jpg",
+			     "name": "New 355",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20355pre.jpg"
+		        
+		},
+		{
 				"author": "Pietro De Grandi",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20354.jpg",
 			     "name": "New 354",
