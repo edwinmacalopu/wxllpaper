@@ -2,6 +2,13 @@
 	"wallpapers": [
 		
 		{
+				"author": "Li Shen",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20356.jpg",
+			     "name": "New 356",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20356pre.jpg"
+		        
+		},
+		{
 				"author": "google earth",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20355.jpg",
 			     "name": "New 355",
