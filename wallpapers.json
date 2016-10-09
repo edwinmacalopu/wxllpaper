@@ -1,6 +1,14 @@
 {
 	"wallpapers": [
 		
+		
+		{
+				"author": "Jake Maynard",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20360.jpg",
+			     "name": "New 360",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20360pre.jpg"
+		        
+		},
 		{
 				"author": "Google earth",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20359.jpg",
