@@ -2,6 +2,13 @@
 	"wallpapers": [
 		
 		{
+				"author": "Nasa",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20363.jpg",
+			     "name": "New 363",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20363pre.jpg"
+		        
+		},
+		{
 				"author": "Adam Jaime",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20362.jpg",
 			     "name": "New 362",
