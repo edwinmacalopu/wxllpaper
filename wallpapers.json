@@ -2,6 +2,20 @@
 	"wallpapers": [
 		
 		{
+				"author": "Jon West",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20372.jpg",
+			     "name": "New 372",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20372pre.jpg"
+		        
+		},
+		{
+				"author": "Jon West",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20371.jpg",
+			     "name": "New 371",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20371pre.jpg"
+		        
+		},
+		{
 				"author": "Cole Rise",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20370.jpg",
 			     "name": "New 370",
