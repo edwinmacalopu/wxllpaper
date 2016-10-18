@@ -1,6 +1,14 @@
 {
 	"wallpapers": [
 		
+		
+		{
+				"author": "Evan Batky",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20381.jpg",
+			     "name": "New 381",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20381pre.jpg"
+		        
+		},
 		{
 				"author": "Evan Batky",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20380.jpg",
