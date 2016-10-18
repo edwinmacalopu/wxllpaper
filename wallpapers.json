@@ -2,6 +2,13 @@
 	"wallpapers": [
 		
 		{
+				"author": "Evan Batky",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20380.jpg",
+			     "name": "New 380",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20380pre.jpg"
+		        
+		},
+		{
 				"author": "Jeremy for Life",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20379.jpg",
 			     "name": "New 379",
