@@ -1,7 +1,13 @@
 {
 	"wallpapers": [
 		
-		
+		{
+				"author": "Jeremy Bishop",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20382.jpg",
+			     "name": "New 382",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20382pre.jpg"
+		        
+		},
 		{
 				"author": "Evan Batky",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20381.jpg",
