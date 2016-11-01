@@ -2,7 +2,13 @@
 	"wallpapers": [
 		
 		
-		
+		{
+				"author": "Chris Anderson",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20398.jpg",
+			     "name": "New 398",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20398pre.jpg"
+		        
+		},
 		{
 				"author": "Matthias Heil",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20397.jpg",
