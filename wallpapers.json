@@ -1,6 +1,28 @@
 {
 	"wallpapers": [
 		
+		
+		{
+				"author": "Marco P",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20402.jpg",
+			     "name": "New 402",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20402pre.jpg"
+		        
+		},
+		{
+				"author": "Marco P",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20401.jpg",
+			     "name": "New 401",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20401pre.jpg"
+		        
+		},
+		{
+				"author": "Marco P",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20400.jpg",
+			     "name": "New 400",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20400pre.jpg"
+		        
+		},
 		{
 				"author": "Manuel Will",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20399.jpg",
