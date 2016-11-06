@@ -2,6 +2,13 @@
 	"wallpapers": [
 		
 		{
+				"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20404.jpg",
+			     "name": "New 404",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20404pre.jpg"
+		        
+		},
+		{
 				"author": "Alex chaves",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20403.jpg",
 			     "name": "New 403",
