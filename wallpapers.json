@@ -1,7 +1,13 @@
 {
 	"wallpapers": [
 		
-		
+		{
+				"author": "Google Earth",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20409.jpg",
+			     "name": "New 409",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20409pre.jpg"
+		        
+		},
 		{
 				"author": "Nick Nice",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20408.jpg",
