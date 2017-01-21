@@ -2,6 +2,13 @@
 	"wallpapers": [
 		
 		{
+				"author": "Jeremy for Life",
+			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20433.jpg",
+			     "name": "New 433",
+			     "thumbnail": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20433pre.jpg"
+		        
+		},
+		{
 				"author": "Jon West",
 			"url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20432.jpg",
 			     "name": "New 432",
