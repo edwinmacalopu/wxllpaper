@@ -22,94 +22,102 @@
         }
     ],
     "Wallpapers":[
-       {
-            "name":"TEST01",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/New%20439.jpg",
-           "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/New%20439pre.jpg",
+        {
+            "name":"New 439",
+            "author":"Oscar Sutton",
+            "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20439.jpg",
+	    "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20439pre.jpg",
             "collections":"featured,landscapes,people"
         },
-             {
-		   "name":"New 439",
-		   "author":"Oscar Sutton",
-		   "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/New%20439.jpg",			     
-	           "thumbnail":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/New%20439pre.jpg",
-		"collections":"featured,landscapes,people,city"
-		        
-		},
-		{
-			 "name":"New 438",
-			"author":"Alex Chaves",
-			"url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/New%20438.jpg",			    
-			 "thumbnail":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/New%20438pre.jpg",
-			"collections":"featured,landscapes,people,city"
-		        
-		},
-		{
-			 "name":"New 437",
-			"author":"Rutwik Patel",
-			"url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/New%20437.jpg",			 
-			"thumbnail":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/New%20437pre.jpg",
-			"collections":"featured,landscapes,people,city"
-		        
-		},
-		{
-			  "name":"New 436",
-			"author":"Rutwik Patel",
-			"url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/New%20436.jpg",			 
-			"thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/New%20436pre.jpg",
-			"collections":"featured,landscapes,people,city"
-		        
-		},
-		{
-			  "name":"New 435",
-			"author":"Rutwik Patel",
-			"url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/New%20435.jpg",			   
-			"thumbnail":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/New%20435pre.jpg",
-			"collections":"featured,landscapes,people,city"
-		        
-		},
-		{
-			 "name":"New 434",
-			"author":"Nick Nice",
-			"url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/New%20434.jpg",			    
-			"thumbnail":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/New%20434pre.jpg",
-			"collections":"featured,landscapes,people,city"
-		        
-		},
-		{
-			 "name":"New 433",
-			"author":"Jeremy for Life",
-			"url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/New%20433.jpg",			    
-			 "thumbnail":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/New%20433pre.jpg",
-			"collections":"featured,landscapes,people,city"
-		        
-		},
-		{
-			"name":"New 432",
-			"author":"Jon West",
-			"url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/New%20432.jpg",			     
-			"thumbnail":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/New%20432pre.jpg",
-			"collections":"featured,landscapes,people,city"
-		        
-		},
-		{
-			 "name":"New 431",
-			"author":"plaround",
-			"url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/New%20431.jpg",			    
-			 "thumbnail":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/New%20431pre.jpg",
-			"collections":"featured,landscapes,people,city"
-		        
-		},
-		{
-			  "name":"New 430",
-			"author":"Jeremy for Life",
-			"url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/New%20430.jpg",			   
-			"thumbnail":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/New%20430pre.jpg",
-			"collections":"featured,landscapes,people,city"
-		        
-		}
-
+        {
+            "name":"New 438",
+            "author":"Alex Chaves",
+            "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20438.jpg",
+	    "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20438pre.jpg",
+            "dimensions":"3200x2560",
+            "collections":"people,city"
+        },
+        {
+	    "name":"New 437",
+            "author":"Someone",
+            "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20437.jpg",
+	    "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20437pre.jpg",            
+            "dimensions":"1280x720",
+            "copyright":"Credits to its creator",
+            "collections":"landscapes,city"
+        },
+        {
+            "name":"New 436",
+            "author":"wallsplash",
+            "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20436.jpg",
+	    "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20436pre.jpg",  
+            "dimensions":"3200x2560",
+            "copyright":"Free (do whatever you want)",
+            "collections":"featured,landscapes,people,city"
+        },
+        {
+            "name":"Wallsplash 2",
+            "author":"wallsplash",
+            "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20435.jpg",
+	    "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20435pre.jpg",
+            "dimensions":"3200x2560",
+            "copyright":"Free (do whatever you want)",
+            "collections":"featured,landscapes,people,food"
+        },
+        {
+            "name":"Wallsplash 3",
+            "author":"wallsplash",
+            "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20434.jpg",
+	    "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20434pre.jpg",
+            "dimensions":"3200x2560",
+            "copyright":"Free (do whatever you want)",
+            "collections":"featured,food,people"
+        },
+        {
+            "name":"Wallsplash 4",
+            "author":"wallsplash",
+            "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20433.jpg",
+	    "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20433pre.jpg",
+            "dimensions":"3200x2560",
+            "copyright":"Free (do whatever you want)",
+            "collections":"landscapes,people,city"
+        },
+        {
+            "name":"Wallsplash 5",
+            "author":"wallsplash",
+            "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20432.jpg",
+	    "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20432pre.jpg",
+            "dimensions":"3200x2560",
+            "copyright":"Free (do whatever you want)",
+            "collections":"featured,landscapes"
+        },
+        {
+            "name":"Wallsplash 6",
+            "author":"wallsplash",
+            "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20431.jpg",
+	    "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20431pre.jpg",
+            "dimensions":"3200x2560",
+            "copyright":"Free (do whatever you want)",
+            "collections":"featured,people"
+        },
+        {
+            "name":"Wallsplash 7",
+            "author":"wallsplash",
+            "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20430.jpg",
+	    "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20430pre.jpg",
+            "dimensions":"3200x2560",
+            "copyright":"Free (do whatever you want)",
+            "collections":"landscapes,people"
+        },
+        {
+            "name":"Wallsplash 8",
+            "author":"wallsplash",
+            "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20429.jpg",
+	    "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20429pre.jpg",
+            "dimensions":"3200x2560",
+            "copyright":"Free (do whatever you want)",
+            "collections":"food"
+        }
 
    ]
 }
