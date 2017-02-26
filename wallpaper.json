@@ -29,14 +29,7 @@
            "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/New%20439pre.jpg",
             "collections":"featured,landscapes,people"
         },
-        {
-            "name":"ShotB",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-            "dimensions":"3200x2560",
-            "collections":"people,city"
-        },
-       		{
+             {
 		   "name":"New 439",
 		   "author":"Oscar Sutton",
 		   "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/New%20439.jpg",			     
@@ -69,50 +62,50 @@
 		        
 		},
 		{
-			  "name": "New 435",
-			"author": "Rutwik Patel",
-			"url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/New%20435.jpg",			   
-			"thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/New%20435pre.jpg",
+			  "name":"New 435",
+			"author":"Rutwik Patel",
+			"url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/New%20435.jpg",			   
+			"thumbnail":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/New%20435pre.jpg",
 			"collections":"featured,landscapes,people,city"
 		        
 		},
 		{
-			 "name": "New 434",
-			"author": "Nick Nice",
-			"url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/New%20434.jpg",			    
-			"thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/New%20434pre.jpg",
+			 "name":"New 434",
+			"author":"Nick Nice",
+			"url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/New%20434.jpg",			    
+			"thumbnail":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/New%20434pre.jpg",
 			"collections":"featured,landscapes,people,city"
 		        
 		},
 		{
-			 "name": "New 433",
-			"author": "Jeremy for Life",
-			"url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/New%20433.jpg",			    
-			 "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/New%20433pre.jpg",
+			 "name":"New 433",
+			"author":"Jeremy for Life",
+			"url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/New%20433.jpg",			    
+			 "thumbnail":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/New%20433pre.jpg",
 			"collections":"featured,landscapes,people,city"
 		        
 		},
 		{
-			"name": "New 432",
-			"author": "Jon West",
-			"url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/New%20432.jpg",			     
-			"thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/New%20432pre.jpg",
+			"name":"New 432",
+			"author":"Jon West",
+			"url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/New%20432.jpg",			     
+			"thumbnail":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/New%20432pre.jpg",
 			"collections":"featured,landscapes,people,city"
 		        
 		},
 		{
-			 "name": "New 431",
-			"author": "plaround",
-			"url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/New%20431.jpg",			    
-			 "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/New%20431pre.jpg",
+			 "name":"New 431",
+			"author":"plaround",
+			"url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/New%20431.jpg",			    
+			 "thumbnail":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/New%20431pre.jpg",
 			"collections":"featured,landscapes,people,city"
 		        
 		},
 		{
-			  "name": "New 430",
-			"author": "Jeremy for Life",
-			"url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/New%20430.jpg",			   
-			"thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/New%20430pre.jpg",
+			  "name":"New 430",
+			"author":"Jeremy for Life",
+			"url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/New%20430.jpg",			   
+			"thumbnail":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/New%20430pre.jpg",
 			"collections":"featured,landscapes,people,city"
 		        
 		}
