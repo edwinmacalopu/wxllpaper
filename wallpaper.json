@@ -34,7 +34,7 @@
             "author":"Alex Chaves",
             "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20438.jpg",
 	    "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20438pre.jpg",            
-            "collections":"people,city"
+             "collections":"featured,landscapes,people"
         },
         {
 	    "name":"New 437",
@@ -42,7 +42,7 @@
             "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20437.jpg",
 	    "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20437pre.jpg",        
             "copyright":"Credits to its creator",
-            "collections":"landscapes,city"
+             "collections":"featured,landscapes,people"
         },
         {
             "name":"New 436",
@@ -50,7 +50,7 @@
             "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20436.jpg",
 	    "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20436pre.jpg",              
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,landscapes,people,city"
+            "collections":"featured,landscapes,people"
         },
         {
             "name":"New 435",
@@ -74,7 +74,7 @@
             "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20433.jpg",
 	    "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20433pre.jpg",          
             "copyright":"Free (do whatever you want)",
-            "collections":"landscapes,people,city"
+             "collections":"featured,landscapes,people"
         },
         {
             "name":"New 432",
@@ -82,7 +82,7 @@
             "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20432.jpg",
 	    "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20432pre.jpg",            
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,landscapes"
+            "collections":"featured,landscapes,people"
         },
         {
             "name":"New 431",
@@ -98,7 +98,7 @@
             "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20430.jpg",
 	    "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20430pre.jpg",           
             "copyright":"Free (do whatever you want)",
-            "collections":"landscapes,people"
+             "collections":"featured,landscapes,people"
         },
         {
             "name":"New 429",
@@ -106,7 +106,7 @@
             "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20429.jpg",
 	    "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20429pre.jpg",            
             "copyright":"Free (do whatever you want)",
-            "collections":"food"
+             "collections":"featured,landscapes,people"
         }
 
    ]
