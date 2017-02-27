@@ -47,7 +47,24 @@
             "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20437pre.jpg",
             "copyright":"Free (do whatever you want)",
             "collections":"featured,food,people"
+        },
+	{
+            "name":"New 436",
+            "author":"Rutwik Patel",
+            "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20436.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20436pre.jpg",
+            "copyright":"Free (do whatever you want)",
+            "collections":"featured,food,people"
+        },
+	{
+            "name":"New 435",
+            "author":"Rutwik Patel",
+            "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20435.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20435pre.jpg",
+            "copyright":"Free (do whatever you want)",
+            "collections":"featured,food,people"
         }
+
 
 	]
 }
