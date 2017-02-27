@@ -25,25 +25,26 @@
 	"Wallpapers": [
 		
 		{
-            "name":"Wallsplash 01",
-            "author":"wallsplash",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-            "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
+            "name":"New 439",
+            "author":"Oscar Sutton",
+            "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20439.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20439pre.jpg",
             "collections":"featured,landscapes,people,city"
         },
         {
-            "name":"Wallsplash 2",
-            "author":"wallsplash",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-            "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
+            "name":"New 438",
+            "author":"Alex Chaves",
+            "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20438.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20438pre.jpg",
             "dimensions":"3200x2560",
             "copyright":"Free (do whatever you want)",
             "collections":"featured,landscapes,people,food"
         },
         {
-            "name":"Wallsplash 3",
-            "author":"wallsplash",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+            "name":"New 437",
+            "author":"Rutwik Patel",
+            "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20437.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20437pre.jpg",
             "copyright":"Free (do whatever you want)",
             "collections":"featured,food,people"
         }
