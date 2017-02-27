@@ -35,7 +35,7 @@
             "author":"Someone",
             "url":"https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
             "dimensions":"3200x2560",
-            "collections":"people,city"
+            "collections":"featured,landscapes,people"
         },
         {
             "author":"Someone",
@@ -43,7 +43,7 @@
             "name":"ShotC",
             "dimensions":"1280x720",
             "copyright":"Credits to its creator",
-            "collections":"landscapes,city"
+            "collections":"featured,landscapes,people"
         },
         {
             "name":"Wallsplash 1",
@@ -52,7 +52,7 @@
             "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
             "dimensions":"3200x2560",
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,landscapes,people,city"
+            "collections":"featured,landscapes,people"
         },
         {
             "name":"Wallsplash 2",
@@ -61,7 +61,7 @@
             "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
             "dimensions":"3200x2560",
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,landscapes,people,food"
+            "collections":"featured,landscapes,people"
         },
         {
             "name":"Wallsplash 3",
@@ -79,7 +79,7 @@
             "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
             "dimensions":"3200x2560",
             "copyright":"Free (do whatever you want)",
-            "collections":"landscapes,people,city"
+            "collections":"featured,landscapes,people"
         },
         {
             "name":"Wallsplash 5",
@@ -88,7 +88,7 @@
             "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
             "dimensions":"3200x2560",
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,landscapes"
+            "collections":"featured,landscapes,people"
         },
         {
             "name":"Wallsplash 6",
@@ -97,7 +97,7 @@
             "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
             "dimensions":"3200x2560",
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,people"
+            "collections":"featured,landscapes,people"
         },
         {
             "name":"Wallsplash 7",
@@ -106,7 +106,7 @@
             "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_g.png",
             "dimensions":"3200x2560",
             "copyright":"Free (do whatever you want)",
-            "collections":"landscapes,people"
+            "collections":"featured,landscapes,people"
         },
         {
             "name":"Wallsplash 8",
@@ -115,7 +115,7 @@
             "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_h.png",
             "dimensions":"3200x2560",
             "copyright":"Free (do whatever you want)",
-            "collections":"food"
+            "collections":"featured,landscapes,people"
         }
 
 	]
