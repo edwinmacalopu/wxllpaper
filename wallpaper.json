@@ -1348,7 +1348,7 @@
             "collections":"featured,landscapes"
         },
 	{
-            "name":"277"
+            "name":"277",
             "author":"Ishan",
             "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20277.jpg",
             "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20277pre.jpg",
@@ -1612,6 +1612,14 @@
             "collections":"featured,landscapes"
         },
 	{
+            "name":"244",
+            "author":"Jon west",
+            "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20244.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20244pre.jpg",
+            "copyright":"Free (do whatever you want)",
+            "collections":"featured,landscapes"
+        },
+	{
             "name":"243",
             "author":"Marco oliver",
             "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20243.jpg",
@@ -1764,7 +1772,7 @@
             "collections":"featured,city"
         },
 	{
-            "name":"224"
+            "name":"224",
             "author":"Lucas rodriguez",
             "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20224.jpg",
             "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20224pre.jpg",
@@ -1804,16 +1812,8 @@
             "collections":"featured,landscapes"
         },
 	{
-            "name":"219"
-            "author":"Lucas rodriguez",
-            "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20219.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20219pre.jpg",
-            "copyright":"Free (do whatever you want)",
-            "collections":"featured,landscapes"
-        },
-	{
             "name":"219",
-            "author":"Abdul Azim",
+            "author":"Lucas rodriguez",
             "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20219.jpg",
             "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20219pre.jpg",
             "copyright":"Free (do whatever you want)",
