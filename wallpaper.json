@@ -19,6 +19,11 @@
             "name":"People",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
+        },
+        {
+            "name":"People",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
         }
     ],
 
@@ -29,7 +34,7 @@
             "author":"Oscar Sutton",
             "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20439.jpg",
             "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20439pre.jpg",
-            "collections":"featured,landscapes,people,city"
+            "collections":"featured,landscapes"
         },
         {
             "name":"New 438",
@@ -38,7 +43,7 @@
             "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20438pre.jpg",
             "dimensions":"3200x2560",
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,landscapes,people"
+            "collections":"featured,earth"
         },
         {
             "name":"New 437",
@@ -46,7 +51,7 @@
             "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20437.jpg",
             "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20437pre.jpg",
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,people"
+            "collections":"featured,landscapes"
         },
 	{
             "name":"New 436",
@@ -54,7 +59,7 @@
             "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20436.jpg",
             "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20436pre.jpg",
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,people"
+            "collections":"featured,city"
         },
 	{
             "name":"New 435",
@@ -62,7 +67,7 @@
             "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20435.jpg",
             "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20435pre.jpg",
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,people"
+            "collections":"featured,landscapes"
         },
 	{
             "name":"New 434",
@@ -70,7 +75,7 @@
             "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20434.jpg",
             "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20434pre.jpg",
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,earth,people"
+            "collections":"featured,landscapes"
         },
 	{
             "name":"New 433",
@@ -78,7 +83,7 @@
             "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20433.jpg",
             "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20433pre.jpg",
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,earth,people"
+            "collections":"featured,city"
         },
 	{
             "name":"New 432",
@@ -86,7 +91,7 @@
             "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20432.jpg",
             "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20432pre.jpg",
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,earth,people"
+            "collections":"featured,landscapes"
         },
 	{
             "name":"New 431",
@@ -94,7 +99,7 @@
             "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20431.jpg",
             "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20431pre.jpg",
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,earth,people"
+            "collections":"featured,landscapes"
         },
 	{
             "name":"New 430",
@@ -102,7 +107,7 @@
             "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20430.jpg",
             "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20430pre.jpg",
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,earth,people"
+            "collections":"featured,landscapes"
         },
 	{
             "name":"New 429",
@@ -110,7 +115,7 @@
             "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20429.jpg",
             "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20429pre.jpg",
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,earth,people"
+            "collections":"featured,landscapes"
         },
 	{
             "name":"New 428",
@@ -118,7 +123,7 @@
             "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20428.jpg",
             "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20428pre.jpg",
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,earth,people"
+            "collections":"featured,landscapes"
         },
 	{
             "name":"New 427",
@@ -126,7 +131,7 @@
             "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20427.jpg",
             "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20427pre.jpg",
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,earth,people"
+            "collections":"featured,landscapes"
         },
 	{
             "name":"New 426",
@@ -581,6 +586,62 @@
             "author":"Cole Rise",
             "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20370.jpg",
             "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20370pre.jpg",
+            "copyright":"Free (do whatever you want)",
+            "collections":"featured,earth,people"
+        },
+	{
+            "name":"New 369",
+            "author":"Jeremy for Life",
+            "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20369.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20369pre.jpg",
+            "copyright":"Free (do whatever you want)",
+            "collections":"featured,earth,people"
+        },
+	{
+            "name":"368",
+            "author":"Jeremy for Life",
+            "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20368.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20368pre.jpg",
+            "copyright":"Free (do whatever you want)",
+            "collections":"featured,earth,people"
+        },
+	{
+            "name":"367",
+            "author":"Jeremy for Life",
+            "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20367.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20367pre.jpg",
+            "copyright":"Free (do whatever you want)",
+            "collections":"featured,earth,people"
+        },
+	{
+            "name":"366",
+            "author":"Jeremy for Life",
+            "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20366.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20366pre.jpg",
+            "copyright":"Free (do whatever you want)",
+            "collections":"featured,earth,people"
+        },
+	{
+            "name":"365",
+            "author":"Jeremy for Life",
+            "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20365.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20365pre.jpg",
+            "copyright":"Free (do whatever you want)",
+            "collections":"featured,earth,people"
+        },
+	{
+            "name":"364",
+            "author":"Jeremy for Life",
+            "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20364.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20364pre.jpg",
+            "copyright":"Free (do whatever you want)",
+            "collections":"featured,earth,people"
+        },
+	{
+            "name":"363",
+            "author":"Nasa",
+            "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20363.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20363pre.jpg",
             "copyright":"Free (do whatever you want)",
             "collections":"featured,earth,people"
         }
