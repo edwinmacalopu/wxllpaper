@@ -34,7 +34,14 @@
 	
 	
     "Wallpapers": [
-	    
+	
+	 {
+            "name":"New 444",
+            "author":"Monty A",
+            "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/444.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/444pre.jpg",
+            "collections":"featured,landscapes"
+        },
 	{
             "name":"New 443",
             "author":"Andy Matthews",
