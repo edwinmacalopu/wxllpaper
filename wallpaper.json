@@ -35,7 +35,14 @@
 	
     "Wallpapers": [
 		
-		{
+	  {
+            "name":"New 440",
+            "author":"Joss Woodhead",
+            "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/440.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/440pre.jpg",
+            "collections":"featured,city"
+        },
+	{
             "name":"New 439",
             "author":"Oscar Sutton",
             "url":"https://raw.githubusercontent.com/edwinMD/wxllpaper/master/New%20439.jpg",
