@@ -36,6 +36,13 @@
     "Wallpapers": [
 	
 	 {
+            "name":"New 445",
+            "author":"Kai Oberhäuser",
+            "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/445.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/445pre.jpg",
+            "collections":"featured,landscapes"
+        },
+	 {
             "name":"New 444",
             "author":"Monty A",
             "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/444.jpg",
