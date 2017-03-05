@@ -35,6 +35,13 @@
 	
     "Wallpapers": [
 	
+	     {
+            "name":"New 446",
+            "author":"Cole Patrick",
+            "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/446.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/446pre.jpg",
+            "collections":"featured,landscapes"
+        },
 	 {
             "name":"New 445",
             "author":"Kai Oberhäuser",
