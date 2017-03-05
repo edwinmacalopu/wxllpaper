@@ -34,7 +34,14 @@
 	
 	
     "Wallpapers": [
-	    
+	
+	{
+            "name":"New 442",
+            "author":"Andy Matthews",
+            "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/442.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/442pre.jpg",
+            "collections":"featured,cars"
+        },
 	{
             "name":"New 441",
             "author":"Paul Cisneros",
