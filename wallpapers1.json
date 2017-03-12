@@ -1,28 +1,28 @@
 {
     "Categories":[
         {
-            "name":"Landscapes",
+            "name":"Landscapes"
         },
         {
-            "name":"City",
+            "name":"City"
             
         },
         {
-            "name":"Earth",
+            "name":"Earth"
           
         },
         {
-            "name":"People",
+            "name":"People"
             
         },
         {
-            "name":"Black and white",
+            "name":"Black and white"
 	}, 
         {
-            "name":"Cars",
+            "name":"Cars"
         },
         {
-            "name":"featured",
+            "name":"featured"
         }
     ],
 	
