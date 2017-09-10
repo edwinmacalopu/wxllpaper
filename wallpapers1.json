@@ -23,6 +23,9 @@
         },
         {
             "name":"featured"
+        },
+        {
+            "name":"Amoled"
         }
     ],
 	
@@ -2914,6 +2917,13 @@
             "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/462.jpg",
             "thumbUrl":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/462pre.jpg",
             "category":"featured,landscapes"
+        },
+	    {
+            "name":"New 463",
+            "author":"Wxllpaper",
+            "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/463.png",
+            "thumbUrl":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/463pre.png",
+            "category":"featured,Amoled"
         }
 	
 	
