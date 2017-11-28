@@ -3358,6 +3358,13 @@
             "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/blackanimal5.jpg",
             "thumbUrl":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/blackanimal5.jpg",
             "category":"featured,Black and white"
+        },
+	    {
+            "name":"Orion",
+            "author":"Lumiq",
+            "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/Orion.png",
+            "thumbUrl":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/Orion.png",
+            "category":"featured,Amoled"
         }
 	
 	
