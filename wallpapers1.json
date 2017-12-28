@@ -3547,8 +3547,15 @@
 	    {
             "name":"liquefy",
             "author":"wxllpaper",
-            "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/wxllpaperl2.png",
-            "thumbUrl":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/wxllpaperl2.png",
+            "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/wxllpaperl2.jpg",
+            "thumbUrl":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/wxllpaperl2.jpg",
+            "category":"featured,Liquefy"
+        },
+	    {
+            "name":"liquefy",
+            "author":"wxllpaper",
+            "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/wxllpaperl3.png",
+            "thumbUrl":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/wxllpaperl3.png",
             "category":"featured,Liquefy"
         }
 	
