@@ -1,5 +1,8 @@
 {
     "Categories":[
+	{
+            "name":"Liquefy"
+        },
         {
             "name":"Landscapes"
         },
@@ -3533,6 +3536,13 @@
             "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/pexel1.jpeg",
             "thumbUrl":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/pexel1.jpeg",
             "category":"featured,Landscapes"
+        },
+	    {
+            "name":"liquefy",
+            "author":"wxllpaper",
+            "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/wxllpaperl1.png",
+            "thumbUrl":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/wxllpaperl1.png",
+            "category":"featured,Liquefy"
         }
 	
 	
