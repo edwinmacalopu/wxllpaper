@@ -3599,6 +3599,20 @@
             "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/matejrieciciar.jpg",
             "thumbUrl":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/matejrieciciar.jpg",
             "category":"featured,Landscapes,Black and white"
+        },
+	    {
+            "name":"liquefy",
+            "author":"wxllpaper",
+            "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/wxllpaperlb1.png",
+            "thumbUrl":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/wxllpaperlb1.png",
+            "category":"featured,Liquefy"
+        },
+	    {
+            "name":"liquefy",
+            "author":"wxllpaper",
+            "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/wxllpaperlb2.png",
+            "thumbUrl":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/wxllpaperlb2.png",
+            "category":"featured,Liquefy"
         }
 	
 	
