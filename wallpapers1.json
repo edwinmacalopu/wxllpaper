@@ -3697,6 +3697,20 @@
             "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/patrick-tomasso.png",
             "thumbUrl":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/patrick-tomasso.png",
             "category":"featured,City"
+        },
+	    {
+            "name":"wood grand",
+            "author":"Joshua Fuller",
+            "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/Joshua%20Fuller.png",
+            "thumbUrl":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/Joshua%20Fuller.png",
+            "category":"featured,Landscapes"
+        },
+	    {
+            "name":"seal",
+            "author":"Joshua Harris",
+            "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/Joshua%20Harris.png",
+            "thumbUrl":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/Joshua%20Harris.png",
+            "category":"featured,Landscapes"
         }
 	
 	
