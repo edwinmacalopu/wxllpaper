@@ -3732,6 +3732,13 @@
             "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/Oliver%20Roos.png",
             "thumbUrl":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/Oliver%20Roos.png",
             "category":"featured,Landscapes"
+        },
+	    {
+            "name":"mountain",
+            "author":"eberhard grossgasteiger",
+            "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/eberhard%20grossgasteiger.png",
+            "thumbUrl":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/eberhard%20grossgasteiger.png",
+            "category":"featured,Landscapes"
         }
 	
 	
