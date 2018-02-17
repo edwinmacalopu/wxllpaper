@@ -3746,6 +3746,20 @@
             "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/Brad%20Fickeisen.png",
             "thumbUrl":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/Brad%20Fickeisen.png",
             "category":"featured,Landscapes"
+        },
+	    {
+            "name":"mountain2",
+            "author":"Samuel Ferrara",
+            "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/Samuel%20Ferrara.png",
+            "thumbUrl":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/Samuel%20Ferrara.png",
+            "category":"featured,Landscapes"
+        },
+	    {
+            "name":"mountain3",
+            "author":"Bertrand abioud",
+            "url":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/Bertrand%20Gabioud.png",
+            "thumbUrl":"https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/Bertrand%20Gabioud.png",
+            "category":"featured,Landscapes"
         }
 	
 	
