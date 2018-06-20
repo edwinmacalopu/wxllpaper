@@ -36,6 +36,16 @@
       "dimensions": "1280x720",
       "copyright": "Credits to its creator",
       "collections": "landscapes,city"
+       }, 
+     {
+      "name": "Wallsplash 43",
+      "author": "wallsplash3",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/sig4.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/sig4.png",
+      "dimensions": "3200x2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,landscapes"
+      
     }, 
      {
       "name": "Wallsplash 5",
