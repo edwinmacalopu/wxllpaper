@@ -1,9 +1,9 @@
 {
   "Collections": [
     {
-      "name": "Landscapes",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+      "name": "abstract",
+      "preview_url": "https://i.imgur.com/UXFhWAH.png",
+      "preview_thumbnail_url": "https://i.imgur.com/UXFhWAH.png"
     },
     {
       "name": "City",
@@ -38,13 +38,13 @@
       "collections": "landscapes,city"
        }, 
      {
-      "name": "Wallsplash 43",
-      "author": "wallsplash3",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/sig4.png",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/sig4.png",
-      "dimensions": "3200x2560",
+      "name": "blue",
+      "author": "miluwalls",
+      "url": "https://i.imgur.com/jaQ0TXe.png",
+      "thumbnail": "https://i.imgur.com/jaQ0TXe.png",
+      "dimensions": "1242 x 2208",
       "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes"
+      "collections": "featured,abstract"
       
     }, 
      {
@@ -54,7 +54,7 @@
       "thumbnail": "https://i.imgur.com/UXFhWAH.png",
       "dimensions": "1242 x 2208",
       "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes"
+      "collections": "featured,abstract"
     }, 
     
      {
@@ -64,7 +64,7 @@
       "thumbnail": "https://i.imgur.com/5Rmrc2B.png",
       "dimensions": "1242 x 2208",
       "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes"
+      "collections": "featured,abstract"
     }, 
     {
       "name": "Wallsplash 8",
@@ -73,7 +73,7 @@
       "thumbnail": "https://i.imgur.com/CVi5NIq.png",
       "dimensions": "1242 x 2208",
       "copyright": "Free (do whaktever you want)",
-      "collections": "food"
+      "collections": "featured,abstract"
     }
   ]
 }
