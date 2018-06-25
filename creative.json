@@ -23,9 +23,17 @@
   ],
   "Wallpapers": [
     
-    
     {
-       "name": "yellow",
+       "name": "blue asteri",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/blue_ast.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/blue_ast.png",
+      "dimensions": "1242 x 2208",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+       "name": "yellow asteri",
       "author": "miluwalls",
       "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/hellow.png",
       "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/hellow.png",
