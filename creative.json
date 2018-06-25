@@ -23,12 +23,22 @@
   ],
   "Wallpapers": [
     
+    
+    {
+       "name": "yellow",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/hellow.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/hellow.png",
+      "dimensions": "1242 x 2208",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
      {
        "name": "blue blur",
       "author": "miluwalls",
       "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/TRIANGLE_BLUE.png",
       "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/TRIANGLE_BLUE.png",
-      "dimensions": "1242 x 2208",
+      "dimensions": "1868 x 3840",
       "copyright": "Free (do whatever you want)",
       "collections": "featured,abstract"
     },
@@ -37,7 +47,7 @@
       "author": "miluwalls",
       "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/TRIANGLE_BLUE_TRI.png",
       "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/TRIANGLE_BLUE_TRI.png",
-      "dimensions": "1242 x 2208",
+      "dimensions": "1868 x 3840",
       "copyright": "Free (do whatever you want)",
       "collections": "featured,abstract"
     },
@@ -46,7 +56,7 @@
       "author": "miluwalls",
       "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/green_blu.png",
       "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/green_blu.png",
-      "dimensions": "1242 x 2208",
+      "dimensions": "1868 x 3840",
       "copyright": "Free (do whatever you want)",
       "collections": "featured,abstract"
     },
@@ -55,7 +65,7 @@
       "author": "miluwalls",
       "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/green.png",
       "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/green.png",
-      "dimensions": "1242 x 2208",
+      "dimensions": "1868 x 3840",
       "copyright": "Free (do whatever you want)",
       "collections": "featured,abstract"
     },
@@ -64,7 +74,7 @@
       "author": "miluwalls",
       "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/red_blu.png",
       "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/red_blu.png",
-      "dimensions": "1242 x 2208",
+      "dimensions": "1868 x 3840",
       "copyright": "Free (do whatever you want)",
       "collections": "featured,abstract"
     },
@@ -73,7 +83,7 @@
       "author": "miluwalls",
       "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/red.png",
       "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/red.png",
-      "dimensions": "1242 x 2208",
+      "dimensions": "1868 x 3840",
       "copyright": "Free (do whatever you want)",
       "collections": "featured,abstract"
     },    
@@ -82,7 +92,7 @@
       "author": "miluwalls",
       "url": "https://i.imgur.com/RpQtBnc.png",
       "thumbnail": "https://i.imgur.com/RpQtBnc.png",
-      "dimensions": "1242 x 2208",
+      "dimensions": "1868 x 3840",
       "copyright": "Free (do whatever you want)",
       "collections": "featured,abstract"
       
