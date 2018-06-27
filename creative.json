@@ -6,7 +6,7 @@
       "preview_thumbnail_url": "https://i.imgur.com/UXFhWAH.png"
     },
     {
-      "name": "City",
+      "name": "memphis",
       "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
     },
@@ -23,7 +23,15 @@
   ],
   "Wallpapers": [
     
-    
+    {
+       "name": "memphis",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/m_purbpl.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/m_purbpl.png",
+      "dimensions": "1868 x 3840",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,memphis"
+    },
     {
        "name": "windmill",
       "author": "miluwalls",
