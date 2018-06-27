@@ -24,7 +24,16 @@
   "Wallpapers": [
     
     {
-       "name": "memphis",
+       "name": "memphis02",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/good.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/good.png",
+      "dimensions": "1868 x 3840",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,memphis"
+    },
+    {
+       "name": "memphis01",
       "author": "miluwalls",
       "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/blac_puro.png",
       "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/blac_puro.png",
@@ -33,7 +42,7 @@
       "collections": "featured,memphis"
     },
     {
-       "name": "memphis",
+       "name": "memphis0",
       "author": "miluwalls",
       "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/m_purbpl.png",
       "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/m_purbpl.png",
