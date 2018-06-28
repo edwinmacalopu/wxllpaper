@@ -11,9 +11,9 @@
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
     },
     {
-      "name": "Food",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+      "name": "architecture",
+      "preview_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/GORR.png",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/GORR.png"
     },
     {
       "name": "People",
@@ -23,6 +23,15 @@
   ],
   "Wallpapers": [
     
+    {
+       "name": "architecture01",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/GORR.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/GORR.png",
+      "dimensions": "1868 x 3840",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,architecture"
+    },
     {
        "name": "memphis07",
       "author": "miluwalls",
