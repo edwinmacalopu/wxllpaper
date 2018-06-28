@@ -24,6 +24,15 @@
   "Wallpapers": [
     
     {
+       "name": "memphis07",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/finals59.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/finals59.png",
+      "dimensions": "1868 x 3840",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,memphis"
+    },
+    {
        "name": "memphis06",
       "author": "miluwalls",
       "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/finals_good.png",
