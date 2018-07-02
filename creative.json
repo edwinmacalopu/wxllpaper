@@ -23,6 +23,15 @@
   ],
   "Wallpapers": [
     
+     {
+       "name": "earth04",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/eart4.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/eart4.png",
+      "dimensions": "1868 x 3840",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,earth"
+    },
     {
        "name": "earth03",
       "author": "miluwalls",
@@ -35,8 +44,8 @@
     {
        "name": "earth02",
       "author": "miluwalls",
-      "url": "https://github.com/edwinmacalopu/wxllpaper/blob/master/eart2.png",
-      "thumbnail": "https://github.com/edwinmacalopu/wxllpaper/blob/master/eart2.png",
+      "url": "https://github.com/edwinmacalopu/wxllpaper/master/eart2.png",
+      "thumbnail": "https://github.com/edwinmacalopu/wxllpaper/master/eart2.png",
       "dimensions": "1868 x 3840",
       "copyright": "Free (do whatever you want)",
       "collections": "featured,earth"
