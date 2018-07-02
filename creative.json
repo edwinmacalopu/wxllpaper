@@ -16,13 +16,21 @@
       "preview_thumbnail_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/GORR.png"
     },
     {
-      "name": "People",
+      "name": "earth",
       "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
     }
   ],
   "Wallpapers": [
-    
+    {
+       "name": "earth01",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/eart1.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/eart1.png",
+      "dimensions": "1868 x 3840",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,earth"
+    },
     {
        "name": "architecture03",
       "author": "miluwalls",
