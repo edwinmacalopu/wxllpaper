@@ -23,6 +23,15 @@
   ],
   "Wallpapers": [
     
+    {
+       "name": "architecture05",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/art12.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/art12.png",
+      "dimensions": "1868 x 3840",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,architecture"
+    },
      {
        "name": "earth04",
       "author": "miluwalls",
