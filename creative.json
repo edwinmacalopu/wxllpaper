@@ -23,6 +23,15 @@
   ],
   "Wallpapers": [
     
+     {
+       "name": "memphis08",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/MINIT3.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/MINIT3.png",
+      "dimensions": "1868 x 3840",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,memphis"
+    },
     {
        "name": "earth05",
       "author": "miluwalls",
