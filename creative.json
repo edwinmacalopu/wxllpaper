@@ -23,6 +23,15 @@
   ],
   "Wallpapers": [
     
+    {
+       "name": "earth07",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/forest.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/forest.png",
+      "dimensions": "1868 x 3840",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,earth"
+    },
      {
        "name": "earth06",
       "author": "miluwalls",
