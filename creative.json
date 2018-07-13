@@ -23,6 +23,16 @@
   ],
   "Wallpapers": [
     
+    
+    {
+       "name": "earth08",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/earth345.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/earth345.png",
+      "dimensions": "1868 x 3840",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,earth"
+    },
     {
        "name": "architecture09",
       "author": "miluwalls",
