@@ -23,6 +23,15 @@
   ],
   "Wallpapers": [
     
+    {
+       "name": "earth11",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/mountainssss.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/mountainssss.png",
+      "dimensions": "1868 x 3840",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,earth"
+    },
      {
        "name": "earth10",
       "author": "miluwalls",
