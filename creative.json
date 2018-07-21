@@ -23,6 +23,15 @@
   ],
   "Wallpapers": [
     
+     {
+       "name": "liquid white",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/liquid_24.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/liquid_24_pre.png",
+      "dimensions": "1868 x 3840",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
     {
        "name": "liquid purple",
       "author": "miluwalls",
