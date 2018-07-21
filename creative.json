@@ -2,8 +2,8 @@
   "Collections": [
     {
       "name": "abstract",
-      "preview_url": "https://i.imgur.com/UXFhWAH.png",
-      "preview_thumbnail_url": "https://i.imgur.com/UXFhWAH.png"
+      "preview_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/liq_12_pre.png",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/liq_12_pre.png"
     },
     {
       "name": "memphis",
@@ -23,6 +23,15 @@
   ],
   "Wallpapers": [
     
+    {
+       "name": "liquid red",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/liq_12.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/liq_12_pre.png",
+      "dimensions": "1868 x 3840",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
     {
        "name": "memphis09",
       "author": "miluwalls",
