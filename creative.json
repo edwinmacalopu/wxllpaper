@@ -6,6 +6,11 @@
       "preview_thumbnail_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/liq_12_pre.png"
     },
     {
+      "name": "cars",
+      "preview_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/card.png",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/card.png"
+    },
+    {
       "name": "memphis",
       "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
@@ -23,7 +28,15 @@
   ],
   "Wallpapers": [
     
-    
+    {
+       "name": "car red",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/card.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/card.png",
+      "dimensions": "1868 x 3840",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,cars"
+    },
     {
        "name": "earth14",
       "author": "miluwalls",
