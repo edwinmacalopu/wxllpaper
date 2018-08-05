@@ -28,6 +28,15 @@
   ],
   "Wallpapers": [
     
+     {
+       "name": "earth23",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/planet1.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/planet1.png",
+      "dimensions": "2500 x 3840",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,earth"
+    },
     {
        "name": "earth22",
       "author": "miluwalls",
