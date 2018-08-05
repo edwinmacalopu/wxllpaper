@@ -28,6 +28,15 @@
   ],
   "Wallpapers": [
     
+    {
+       "name": "earth22",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/solblack.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/solblack.png",
+      "dimensions": "2500 x 3840",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,earth"
+    },
      {
        "name": "earth21",
       "author": "miluwalls",
