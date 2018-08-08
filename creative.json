@@ -28,6 +28,15 @@
   ],
   "Wallpapers": [
     
+     {
+       "name": "earth26",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/volcan.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/volcan.png",
+      "dimensions": "2500 x 3840",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,earth"
+    },
     {
        "name": "earth25",
       "author": "miluwalls",
