@@ -29,6 +29,15 @@
   "Wallpapers": [
     
      {
+       "name": "asteroid green",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/asteroidgreen.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/asteroidgreen.png",
+      "dimensions": "2500 x 3840",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+     {
        "name": "asteroid red",
       "author": "miluwalls",
       "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/asteroidred2.png",
