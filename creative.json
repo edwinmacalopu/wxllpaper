@@ -28,6 +28,15 @@
   ],
   "Wallpapers": [
     
+     {
+       "name": "asteroid blue",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/asteroidblue.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/asteroidblue.png",
+      "dimensions": "2500 x 3840",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
     {
        "name": "earth27",
       "author": "unsplash",
