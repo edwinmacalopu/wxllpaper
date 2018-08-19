@@ -27,6 +27,15 @@
     }
   ],
   "Wallpapers": [
+     {
+       "name": "earth28",
+      "author": "unsplash",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/lines.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/lines.png",
+      "dimensions": "2500 x 3840",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,earth"
+    },
     {
        "name": "carblack",
       "author": "unsplash",
