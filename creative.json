@@ -27,7 +27,25 @@
     }
   ],
   "Wallpapers": [
-     {
+    {
+       "name": "landascape blu",
+      "author": "Imraan Virani",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/landscape%20blue-01.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/landscape%20blue-01.png",
+      "dimensions": "3000 x 5333",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    }, 
+    {
+       "name": "landascape",
+      "author": "Imraan Virani",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/landscape-01.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/landscape-01.png",
+      "dimensions": "3000 x 5333",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    }, 
+    {
        "name": "earth28",
       "author": "unsplash",
       "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/lines.png",
