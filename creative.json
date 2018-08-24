@@ -27,6 +27,16 @@
     }
   ],
   "Wallpapers": [
+    
+    {
+       "name": "mescla3",
+      "author": "google+",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/mescla3.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/mescla3.png",
+      "dimensions": "2500 x 3840",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    }, 
      {
        "name": "mescla2",
       "author": "google+",
