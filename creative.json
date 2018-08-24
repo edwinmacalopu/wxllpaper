@@ -27,6 +27,16 @@
     }
   ],
   "Wallpapers": [
+    
+    {
+       "name": "mescla",
+      "author": "google+",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/mescla1.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/mescla1.png",
+      "dimensions": "2500 x 3840",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    }, 
     {
        "name": "landascape blu",
       "author": "Imraan Virani",
