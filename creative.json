@@ -27,6 +27,34 @@
     }
   ],
   "Wallpapers": [
+    
+    {
+       "name": "iphone Xs",
+      "author": "google+",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/iphonered.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/iphonered.png",
+      "dimensions": "4688 x 10150",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,cars"
+    }, 
+    {
+       "name": "iphone Xs",
+      "author": "google+",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/iphoneblue.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/iphoneblue.png",
+      "dimensions": "4688 x 10150",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,cars"
+    }, 
+     {
+       "name": "iphone Xs",
+      "author": "google+",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/iphoneblack.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/iphoneblack.png",
+      "dimensions": "4688 x 10150",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,cars"
+    }, 
     {
        "name": "porsh2",
       "author": "google+",
