@@ -29,6 +29,24 @@
   "Wallpapers": [
     
     {
+       "name": "river",
+      "author": "google+",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/River_Fall_1.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/River_Fall_1.png",
+      "dimensions": "1500 x 2800",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    }, 
+    {
+       "name": "river",
+      "author": "google+",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/River_Fall.jpeg",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/River_Fall.jpeg",
+      "dimensions": "1500 x 2800",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    }, 
+    {
        "name": "iphone Xs",
       "author": "google+",
       "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/iphonered.png",
