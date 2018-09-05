@@ -29,6 +29,24 @@
   "Wallpapers": [
     
     {
+       "name": "winter Nights",
+      "author": "google+",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/Winter_Nights_2.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/Winter_Nights_2.png",
+      "dimensions": "1500 x 2800",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    }, 
+    {
+       "name": "winter Nights",
+      "author": "google+",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/Winter_Nights.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/Winter_Nights.png",
+      "dimensions": "1500 x 2800",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    }, 
+    {
        "name": "river",
       "author": "google+",
       "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/River_Fall_1.png",
