@@ -1,49 +1,49 @@
 {
     "Collections":[
 	{
-            "name":"Liquefy"
+            "name":"Liquefy",
 	"preview_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/wxllpaperl1.png",
       "preview_thumbnail_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/wxllpaperl1.png"
         },
         {
-            "name":"Landscapes"
+            "name":"Landscapes",
 		"preview_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/491.jpg",
       "preview_thumbnail_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/491.jpg"
         },
         {
-            "name":"City"
+            "name":"City",
             "preview_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/468pre.jpg",
       "preview_thumbnail_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/468pre.jpg"
         },
         {
-            "name":"Earth"
+            "name":"Earth",
 		 "preview_url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20409pre.jpg",
       "preview_thumbnail_url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20409pre.jpg"
           
         },
         {
-            "name":"People"
+            "name":"People",
 		 "preview_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/rye-jessen.png",
       "preview_thumbnail_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/rye-jessen.png"
             
         },
         {
-            "name":"Black and white"
+            "name":"Black and white",
 		 "preview_url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20404pre.jpg",
       "preview_thumbnail_url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20404pre.jpg"
 	}, 
         {
-            "name":"Cars"
+            "name":"Cars",
 		 "preview_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/492pre.jpg",
       "preview_thumbnail_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/492pre.jpg"
         },
         {
-            "name":"featured"
+            "name":"featured",
 		 "preview_url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20100pre.jpg",
       "preview_thumbnail_url": "https://raw.githubusercontent.com/edwinMD/wxllpaper/master/preview/New%20100pre.jpg"
         },
         {
-            "name":"Amoled"
+            "name":"Amoled",
 		 "preview_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/463pre.png",
       "preview_thumbnail_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/463pre.png"
         }
