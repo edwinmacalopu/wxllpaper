@@ -29,6 +29,15 @@
   "Wallpapers": [
     
     {
+       "name": "cubet blue",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/cubet1.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/cubet1.png",
+      "dimensions": "1500 x 2800",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    }, 
+    {
        "name": "winter Nights",
       "author": "google+",
       "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/Winter_Nights_2.png",
