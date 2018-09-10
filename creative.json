@@ -28,6 +28,15 @@
   ],
   "Wallpapers": [
     
+    {
+       "name": "cubet green",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/cubet4.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/cubet4.png",
+      "dimensions": "1500 x 2800",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    }, 
      {
        "name": "cubet yellow",
       "author": "miluwalls",
