@@ -27,7 +27,96 @@
     }
   ],
   "Wallpapers": [
-    
+    {
+       "name": "NewDesert4",
+      "author": "Mathy Eckerdt",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/NewDesert4.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/NewDesert4.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+       "name": "NewDesert3",
+      "author": "Mathy Eckerdt",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/NewDesert3.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/NewDesert3.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+       "name": "FoxLandscape2",
+      "author": "Mathy Eckerdt",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/FoxLandscape2.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/FoxLandscape2.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+       "name": "FoxLandscape1",
+      "author": "Mathy Eckerdt",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/FoxLandscape2.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/FoxLandscape2.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+       "name": "FoxLandscape1",
+      "author": "Mathy Eckerdt",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/FoxLandscape1.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/FoxLandscape1.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+       "name": "BeautifulPlace2",
+      "author": "Mathy Eckerdt",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/BeautifulPlace2.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/BeautifulPlace2.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+       "name": "BeautifulPlace1",
+      "author": "Mathy Eckerdt",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/BeautifulPlace1.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/BeautifulPlace1.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+       "name": "BeautifulHouseRed",
+      "author": "Mathy Eckerdt",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/BeautifulHouseRed.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/BeautifulHouseRed.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+       "name": "AmoledGirl1",
+      "author": "Mathy Eckerdt",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/AmoledGirl2.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/AmoledGirl2.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+       "name": "AmoledGirl1",
+      "author": "Mathy Eckerdt",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/AmoledGirl1.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/AmoledGirl1.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
     {
        "name": "iphone Xr",
       "author": "miluwalls",
