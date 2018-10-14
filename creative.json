@@ -28,6 +28,96 @@
   ],
   "Wallpapers": [
     {
+       "name": "AltosAdventure2",
+      "author": "Mathy Eckerdt",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/AltosAdventure2.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/AltosAdventure2.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+       "name": "AltosAdventure1",
+      "author": "Mathy Eckerdt",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/AltosAdventure1.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/AltosAdventure1.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+       "name": "AnotherPlanet2",
+      "author": "Mathy Eckerdt",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/FireInTheForest2.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/FireInTheForest2.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+       "name": "AnotherPlanet1",
+      "author": "Mathy Eckerdt",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/FireInTheForest1.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/FireInTheForest1.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+       "name": "FireInTheForest2",
+      "author": "Mathy Eckerdt",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/FireInTheForest2.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/FireInTheForest2.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+       "name": "FireInTheForest1",
+      "author": "Mathy Eckerdt",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/FireInTheForest1.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/FireInTheForest1.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+       "name": "WhaleBlue1",
+      "author": "Mathy Eckerdt",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/WhaleBlue1.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/WhaleBlue1.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+       "name": "WhaleGreen1",
+      "author": "Mathy Eckerdt",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/WhaleGreen1.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/WhaleGreen1.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+     {
+       "name": "Wolf1",
+      "author": "Mathy Eckerdt",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/Wolf1.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/Wolf1.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+       "name": "Wolf",
+      "author": "Mathy Eckerdt",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/Wolf.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/Wolf.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
        "name": "NewDesert4",
       "author": "Mathy Eckerdt",
       "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/NewDesert4.png",
