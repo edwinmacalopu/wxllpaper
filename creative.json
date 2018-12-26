@@ -6,6 +6,11 @@
       "preview_thumbnail_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/liq_12_pre.png"
     },
     {
+      "name": "geometric",
+      "preview_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/triang4.jpg",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/triang4.jpg"
+    },
+    {
       "name": "cars",
       "preview_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/card.png",
       "preview_thumbnail_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/card.png"
@@ -27,6 +32,42 @@
     }
   ],
   "Wallpapers": [
+    {
+       "name": "geometric04",
+      "author": "Mathy Eckerdt",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/triang4.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/triang4.jpg",
+      "dimensions": "3240 x 4050",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,geometric"
+    },
+    {
+       "name": "geometric03",
+      "author": "Mathy Eckerdt",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/triang3.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/triang3.jpg",
+      "dimensions": "3240 x 4050",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,geometric"
+    },
+    {
+       "name": "geometric02",
+      "author": "Mathy Eckerdt",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/triang2.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/triang2.jpg",
+      "dimensions": "3240 x 4050",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,geometric"
+    },
+    {
+       "name": "geometric01",
+      "author": "Mathy Eckerdt",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/triang1.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/triang1.jpg",
+      "dimensions": "3240 x 4050",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,geometric"
+    },
     {
        "name": "AltosAdventure2",
       "author": "Mathy Eckerdt",
