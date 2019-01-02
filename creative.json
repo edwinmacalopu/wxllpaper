@@ -6,11 +6,6 @@
       "preview_thumbnail_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/liq_12_pre.png"
     },
     {
-      "name": "geometric",
-      "preview_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/triang4.jpg",
-      "preview_thumbnail_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/triang4.jpg"
-    },
-    {
       "name": "cars",
       "preview_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/card.png",
       "preview_thumbnail_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/card.png"
@@ -33,40 +28,22 @@
   ],
   "Wallpapers": [
     {
-       "name": "geometric04",
-      "author": "Mathy Eckerdt",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/triang4.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/triang4.jpg",
-      "dimensions": "3240 x 4050",
+       "name": "jungle green",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/edwin_02.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/edwin_02.png",
+      "dimensions": "1440 x 2560",
       "copyright": "Free (do whatever you want)",
-      "collections": "featured,geometric"
+      "collections": "featured,abstract"
     },
     {
-       "name": "geometric03",
-      "author": "Mathy Eckerdt",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/triang3.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/triang3.jpg",
-      "dimensions": "3240 x 4050",
+       "name": "jungle red",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/edwin_01.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/edwin_01.png",
+      "dimensions": "1440 x 2560",
       "copyright": "Free (do whatever you want)",
-      "collections": "featured,geometric"
-    },
-    {
-       "name": "geometric02",
-      "author": "Mathy Eckerdt",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/triang2.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/triang2.jpg",
-      "dimensions": "3240 x 4050",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,geometric"
-    },
-    {
-       "name": "geometric01",
-      "author": "Mathy Eckerdt",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/triang1.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/triang1.jpg",
-      "dimensions": "3240 x 4050",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,geometric"
+      "collections": "featured,abstract"
     },
     {
        "name": "AltosAdventure2",
