@@ -28,6 +28,24 @@
   ],
   "Wallpapers": [
     {
+       "name": "insectfirefly green",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/insectfirefly_green.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/insectfirefly_green.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+       "name": "insectfirefly",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/insectfirefly.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/insectfirefly.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
        "name": "Dolphin",
       "author": "miluwalls",
       "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/delfin_edwin.png",
