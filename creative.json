@@ -27,6 +27,42 @@
     }
   ],
   "Wallpapers": [
+     {
+       "name": "mountain",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/mountn4.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/mountn4.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+     {
+       "name": "mountain",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/mountn3.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/mountn3.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+     {
+       "name": "mountain",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/mountn2.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/mountn2.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+       "name": "mountain",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/mountn1.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/mountn1.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
     {
        "name": "camel dark",
       "author": "miluwalls",
