@@ -6,9 +6,9 @@
       "preview_thumbnail_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/liq_12_pre.png"
     },
     {
-      "name": "cars",
-      "preview_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/card.png",
-      "preview_thumbnail_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/card.png"
+      "name": "isometric3D",
+      "preview_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/3d01.png",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/3d01.png"
     },
     {
       "name": "memphis",
@@ -27,6 +27,33 @@
     }
   ],
   "Wallpapers": [
+    {
+       "name": "isometric blue",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/3d03.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/3d03.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,isometric3D"
+    },
+    {
+       "name": "isometric green",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/3d02.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/3d02.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,isometric3D"
+    },
+    {
+       "name": "isometric purple",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/3d01.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/3d01.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,isometric3D"
+    },
      {
        "name": "mountain",
       "author": "miluwalls",
