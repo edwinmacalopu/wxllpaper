@@ -7,8 +7,8 @@
     },
     {
       "name": "isometric3D",
-      "preview_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/3d01.png",
-      "preview_thumbnail_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/3d01.png"
+      "preview_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/3d07.png",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/3d07.png"
     },
     {
       "name": "memphis",
@@ -27,6 +27,24 @@
     }
   ],
   "Wallpapers": [
+    {
+       "name": "castle white",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/3d08.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/3d08.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,isometric3D"
+    },
+    {
+       "name": "castle black",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/3d07.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/3d07.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,isometric3D"
+    },
     {
        "name": "isometric white",
       "author": "miluwalls",
