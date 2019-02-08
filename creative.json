@@ -28,6 +28,15 @@
   ],
   "Wallpapers": [
     {
+       "name": "pop1",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/pop_1.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/pop_1.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,memphis"
+    },
+    {
        "name": "monument v",
       "author": "miluwalls",
       "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/fantas3.png",
