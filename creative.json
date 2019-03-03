@@ -28,6 +28,15 @@
   ],
   "Wallpapers": [
     {
+       "name": "mart",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/mart.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/mart.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
        "name": "moun2",
       "author": "miluwalls",
       "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/mou_2.png",
