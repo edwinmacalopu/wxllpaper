@@ -28,6 +28,42 @@
   ],
   "Wallpapers": [
     {
+       "name": "mountainflat",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/monmon.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/monmon.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+       "name": "desert",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/desertwhite.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/desertwhite.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+     {
+       "name": "filecolor",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/gossw.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/gossw.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+       "name": "falecolor",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/201915.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/201915.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
        "name": "sol3",
       "author": "miluwalls",
       "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/sol3.png",
