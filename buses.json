@@ -1,0 +1,604 @@
+[{
+		"codbus": "1",
+		"bus": "A",
+		"horario": "Lunes a Domingos",
+		"ns": [
+			"Narananjal",
+			"Izaguirre",
+			"Pacífico",
+			"Independencia",
+			"Los Jasminez",
+			"Tomás Valle",
+			"El Milagro",
+			"Honorio Delgado",
+			"UNI",
+			"Parque del Trabajo",
+			"Caquetá",
+			"Castilla",
+			"Tacna",
+			"Jr de la Unión",
+			"Colmena",
+			"Est. Central"
+		],
+		"sn": [
+			"Est. Central",
+			"Colmena",
+			"Jr de la Unión",
+			"Tacna",
+			"Castilla",
+			"Caquetá",
+			"Parque del Trabajo",
+			"UNI",
+			"Honorio Delgado",
+			"El Milagro",
+			"Tomás Valle",
+			"Los Jasminez",
+			"Independencia",
+			"Pacífico",
+			"Izaguirre",
+			"Narananjal"
+		]
+	},
+	{
+		"codbus": "2",
+		"bus": "B",
+		"horario": "Lunes a Domingos",
+		"ns": [
+			"Naranjal",
+			"Izaguirre",
+			"Pacífico",
+			"Independencia",
+			"Los Jasminez",
+			"Tomás Valle",
+			"El Milagro",
+			"Honorio Delgado",
+			"UNI",
+			"Parque del Trabajo",
+			"Caqueta",
+			"Dos de Mayo",
+			"Quilca",
+			"España",
+			"Est. Central",
+			"Estadio Nacional",
+			"México",
+			"Canadá",
+			"Javier Prado",
+			"Canaval Moreyra",
+			"Aramburú",
+			"Domingo Orué",
+			"Angamos",
+			"Ricardo Palma",
+			"Benavides",
+			"28 de Julio",
+			"Plaza de Flores",
+			"Balta",
+			"Bulevar",
+			"Estadio Unión",
+			"Escuela Militar",
+			"Terán",
+			"Rosario de Villa",
+			"Matellini"
+
+		],
+		"sn": [
+			"Matellini",
+			"Rosario de Villa",
+			"Terán",
+			"Escuela Militar",
+			"Estadio Unión",
+			"Bulevar",
+			"Balta",
+			"Plaza de Flores",
+			"28 de Julio",
+			"Benavides",
+			"Ricardo Palma",
+			"Angamos",
+			"Domingo Orué",
+			"Aramburú",
+			"Canaval Moreyra",
+			"Javier Prado",
+			"Canadá",
+			"México",
+			"Estadio Nacional",
+			"Est. Central",
+			"España",
+			"Quilca",
+			"Dos de Mayo",
+			"Caqueta",
+			"Parque del Trabajo",
+			"UNI",
+			"Honorio Delgado",
+			"El Milagro",
+			"Tomás Valle",
+			"Los Jasminez",
+			"Independencia",
+			"Pacífico",
+			"Izaguirre",
+			"Naranjal"
+		]
+	},
+	{
+		"codbus": "3",
+		"bus": "C",
+		"horario": "Lunes a Domingos",
+		"ns": [
+			"Ramon Castilla",
+			"Tacna",
+			"Jiron de la Union",
+			"Colmena",
+			"Estacion Central",
+			"Estadio Nacional",
+			"México",
+			"Canada",
+			"Javier Prado",
+			"Canaval y Moreyra",
+			"Aramburú",
+			"Domingo Orué",
+			"Angamos",
+			"Ricardo Palma",
+			"Benavides",
+			"28 de Julio",
+			"Plaza de Flores",
+			"Balta",
+			"Bulevar",
+			"Estadio Unión",
+			"Escuela Militar",
+			"Terán",
+			"Rosario de Villa",
+			"Matellini"
+		],
+		"sn": [
+			"Matellini",
+			"Rosario de Villa",
+			"Terán",
+			"Escuela Militar",
+			"Estadio Unión",
+			"Bulevar",
+			"Balta",
+			"Plaza de Flores",
+			"28 de Julio",
+			"Benavides",
+			"Ricardo Palma",
+			"Angamos",
+			"Domingo Orué",
+			"Aramburú",
+			"Canaval Moreyra",
+			"Javier Prado",
+			"Canadá",
+			"México",
+			"Estadio Nacional",
+			"Est. Central",
+			"Colmena",
+			"Jirón de la Unión",
+			"Tacna",
+			"Ramón Castilla"
+
+		]
+	},
+	{
+		"codbus": "4",
+		"bus": "D",
+		"horario": "Lunes a Vienes",
+		"ns": [
+			"Naranjal",
+			"Izaguirre",
+			"Pacífico",
+			"Independencia",
+			"Los Jazmines",
+			"Tomás Valle",
+			"El Milagro",
+			"Honorio Delgado",
+			"UNI",
+			"Parque del Trabajo",
+			"Caqueta",
+			"Dos de Mayo",
+			"Quilca",
+			"España",
+			"Est. Central"
+
+		],
+		"sn": [
+			"Est. Central",
+			"España",
+			"Quilca",
+			"2 de Mayo",
+			"Caquetá",
+			"Parque del Trabajo",
+			"UNI",
+			"Honorio Delgado",
+			"El Milagro",
+			"Tomás Valle",
+			"Los Jazmines",
+			"Independencia",
+			"Pacífico",
+			"Izaguirre",
+			"Naranjal"
+
+
+		]
+	},
+	{
+		"codbus": "5",
+		"bus": "EX1",
+		"horario": "Mañana",
+		"ns": [
+			"Matellini",
+			"Rosario de Villa",
+			"Terán",
+			"Escuela Militar",
+			"Estadio Unión",
+			"Bulevar",
+			"Balta",
+			"28 de Julio",
+			"Angamos",
+			"Canaval y Moreyna",
+			"Javier Prado",
+			"Estadio Nacional",
+			"Est. Central"
+		],
+		"sn": [
+			"Est. Central",
+			"Estadio Nacional",
+			"Javier Prado",
+			"Canaval Moreyra",
+			"Angamos",
+			"Ricardo Palma",
+			"28 de Julio",
+			"Balta",
+			"Bulevar",
+			"Estadio Unión",
+			"Escuela Militar",
+			"Terán",
+			"Rosario de Villa",
+			"Matellini"
+		]
+	},
+	{
+		"codbus": "6",
+		"bus": "EX1",
+		"horario": "Tarde",
+		"ns": [
+			"Est. Central",
+			"Estadio Nacional",
+			"Javier Prado",
+			"Canaval y Moreyra",
+			"Angamos",
+			"Ricardo Palma",
+			"28 de Julio",
+			"Balta",
+			"Bulevar",
+			"Estadio Unión",
+			"Escuela Militar",
+			"Terán",
+			"Rosario de Villa",
+			"Matellini"
+
+		],
+		"sn": [
+			"Matellini",
+			"Rosario de Villa",
+			"Terán",
+			"Escuela Militar",
+			"Estadio Unión",
+			"Bulevar",
+			"Balta",
+			"28 de Julio",
+			"Ricardo Palma",
+			"Angamos",
+			"Javier Prado",
+			"Estadio Nacional",
+			"Est. Central"
+
+		]
+	},
+	{
+		"codbus": "7",
+		"bus": "EX2",
+		"horario": "Mañana",
+		"ns": [
+			"Naranjal",
+			"Canadá",
+			"Javier Prado",
+			"Ricardo Palma",
+			"28 de Julio"
+		],
+		"sn": [
+			"Plaza Flores",
+			"Benavides",
+			"Angamos",
+			"Canaval y Moreyra",
+			"Javier Prado",
+			"Est. Central",
+			"España",
+			"Caqueta",
+			"UNI",
+			"Tomás Valle",
+			"Izaguirre",
+			"Naranjal"
+
+
+		]
+	},
+	{
+		"codbus": "8",
+		"bus": "EX2",
+		"horario": "Tarde",
+		"ns": [
+			"solo de sur a norte"
+
+		],
+		"sn": [
+			"Ricardo Palma",
+			"Javier Prado",
+			"Canadá",
+			"Naranjal"
+
+		]
+	},
+	{
+		"codbus": "9",
+		"bus": "EX3",
+		"horario": "Mañana - L a V",
+		"ns": [
+			"Naranjal",
+			"Angamos",
+			"Benavides",
+			"28 de Julio"
+
+		],
+		"sn": [
+			"solo de norte a sur"
+
+		]
+	},
+	{
+		"codbus": "10",
+		"bus": "EX3",
+		"horario": "Tarde - L a V",
+		"ns": [
+			"solo de sur a norte"
+
+
+		],
+		"sn": [
+			"benavides",
+			"Angamos",
+			"Naranjal"
+
+
+		]
+	},
+	{
+		"codbus": "11",
+		"bus": "EX4",
+		"horario": "Solo Sabados",
+		"ns": [
+			"Naranjal",
+			"Izaguirre",
+			"Tomás Valle",
+			"UNI",
+			"Caquetá",
+			"2 de Mayo",
+			"España",
+			"Est. Central",
+			"Javier Prado",
+			"Canaval y Moreyra",
+			"Angamos",
+			"Plaza Flores"
+
+
+
+		],
+		"sn": [
+			"Plaza Flores",
+			"Angamos",
+			"Canaval y Moreyra",
+			"Javier Prado",
+			"Est. Central",
+			"España",
+			"2 de mayo",
+			"Caquetá",
+			"UNI",
+			"Tomás Valle",
+			"Izaguirre",
+			"Naranjal"
+
+
+		]
+	},
+	{
+		"codbus": "12",
+		"bus": "EX5",
+		"horario": "Lunes a Viernes",
+		"ns": [
+			"Naranjal",
+			"Idependecia",
+			"Tomás Valle",
+			"UNI",
+			"España",
+			"Est. Central",
+			"Canadá",
+			"Javier Prado",
+			"Canaval y Moreyra",
+			"Angamos",
+			"Ricardo Palma",
+			"Plaza Flores"
+		],
+		"sn": [
+			"Plaza Flores",
+			"Ricardo Palma",
+			"Angamos",
+			"Canaval y Moreyra",
+			"Javier Prado",
+			"Canadá",
+			"Est. Central",
+			"España",
+			"Caqueta",
+			"UNI",
+			"Honorio Delgado",
+			"Tomás Valle",
+			"Independencia",
+			"Naranjal"
+
+
+
+		]
+	},
+	{
+		"codbus": "13",
+		"bus": "EX6",
+		"horario": "Lunes a Viernes",
+		"ns": [
+			"Izaguirre",
+			"Independencia",
+			"Est. Central",
+			"Javier Prado",
+			"Canaval y Moreyra",
+			"Angamos",
+			"Benavides"
+
+		],
+		"sn": [
+			"solo de norte a sur"
+		]
+	},
+	{
+		"codbus": "14",
+		"bus": "EX7",
+		"horario": "Lunes a Viernes",
+		"ns": [
+			"Tomás Valle",
+			"Est. Central",
+			"Javier Prado",
+			"Canaval y Moreyra",
+			"Angamos"
+
+		],
+		"sn": [
+			"solo de norte a sur"
+		]
+	},
+	{
+		"codbus": "15",
+		"bus": "EX8",
+		"horario": "Lunes a Viernes",
+		"ns": [
+			"Plaza Flores",
+			"Benavides",
+			"Angamos",
+			"Canaval y Moreyra",
+			"Javier Prado",
+			"Est. Central",
+			"España",
+			"Caquetá",
+			"UNI",
+			"Tomás Valle",
+			"Insdependencia",
+			"Izaguirre"
+		],
+		"sn": [
+			"Izaguirre",
+			"Independencia",
+			"tomás Valle",
+			"UNI",
+			"Caquetá",
+			"España",
+			"Est. Central",
+			"Javier Prado",
+			"Canaval y Moreyra",
+			"Angamos",
+			"Benavides",
+			"Plaza Flores"
+
+		]
+	},
+	{
+		"codbus": "16",
+		"bus": "EX9",
+		"horario": "Lunes a Viernes",
+		"ns": [
+			"UNI",
+			"Caquetá",
+			"Canadá",
+			"Canaval y Moreyra",
+			"Angamos",
+			"Benavides"
+
+		],
+		"sn": [
+			"solo de norte a sur"
+
+		]
+	},
+	{
+		"codbus": "17",
+		"bus": "SX",
+		"horario": "Mañana",
+		"ns": [
+			"Naranjal",
+			"Canaval y Moreyra",
+			"Aramburú",
+			"Ricardo Palma"
+
+		],
+		"sn": [
+			"solo de norte a sur"
+
+
+		]
+	},
+	{
+		"codbus": "18",
+		"bus": "SX",
+		"horario": "Tarde",
+		"ns": [
+			"solo de sur a norte"
+
+
+		],
+		"sn": [
+			"Aramburú",
+			"Canaval y Moreyra",
+			"Naranjal"
+
+
+		]
+	},
+	{
+		"codbus": "19",
+		"bus": "SXN",
+		"horario": "Mañana",
+		"ns": [
+			"Naranjal",
+			"2 de Mayo",
+			"Quilca",
+			"España",
+			"Est. Central"
+
+
+		],
+		"sn": [
+			"Est. Central",
+			"Naranjal"
+
+		]
+	},
+	{
+		"codbus": "20",
+		"bus": "SXN",
+		"horario": "Tarde",
+		"ns": [
+			"Naranjal",
+			"Est. Central"
+
+		],
+		"sn": [
+			"Est. Central",
+			"España",
+			"Quilca",
+			"2 de Mayo",
+			"Naranjal"
+
+		]
+	}
+]
