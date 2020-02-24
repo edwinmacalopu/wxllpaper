@@ -27,11 +27,20 @@
     }
   ],
   "Wallpapers": [
-    {
-       "name": "googlepixel",
+     {
+       "name": "geome2",
       "author": "miluwalls",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/pixelwall4.png",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/pixelwall4.png",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/geome21.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/geome21.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+       "name": "geome1",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/geome20.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/geome20.png",
       "dimensions": "1440 x 2560",
       "copyright": "Free (do whatever you want)",
       "collections": "featured,abstract"
