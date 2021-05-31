@@ -1,0 +1,94 @@
+{
+  "Wallpapers": [
+    {
+      "name": "galaxy",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/galax.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/galaxpre.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+      "name": "astronaut",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/astro.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/astropre.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+      "name": "geome2",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/geome21.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/geome21pre.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+      "name": "geome1",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/geome20.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/geome20pre.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+      "name": "googlepixel",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/pixelwall_black2.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/pixelwall_black2pre.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+      "name": "googlepixel",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/pixelwall_black.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/pixelwall_blackpre.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+      "name": "chimney",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/chimney.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/chimneypre.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,isometric3D"
+    },
+    {
+      "name": "phone",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/celphone.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/celphonepre.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,isometric3D"
+    },
+    {
+      "name": "mountainflat",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/monmon.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/monmonpre.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    },
+    {
+      "name": "desert",
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/desertwhite.png",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/desertwhitepre.png",
+      "dimensions": "1440 x 2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,abstract"
+    }
+  ]
+}
