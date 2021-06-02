@@ -1,5 +1,10 @@
 {
     "Collections":[
+	    {
+            "name":"Vector",
+	"preview_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/sol1pre.png",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/preview/sol1pre.png"
+        },
 	{
             "name":"Liquefy",
 	"preview_url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/wxllpaperl1.png",
