@@ -1,0 +1,37 @@
+[{
+		"id": 1,
+		"nombre": "Servicio",
+		"descripcion": "De horas",
+		"precio": "15.00",
+		"horas": "3",
+		"url_imagen": "public/Servicio/052YtmSiVJosdKqmfAZ0kXyXj7jVkYhWd1HnKwsa.jpg",
+		"nombre_imagen": "upload.jpg",
+		"estado": "ACTIVO",
+		"created_at": "2021-09-18 00:00:11",
+		"updated_at": "2021-09-18 00:06:57"
+	},
+	{
+		"id": 2,
+		"nombre": "Servicio",
+		"descripcion": "De horas",
+		"precio": "10.00",
+		"horas": "1",
+		"url_imagen": "public/Servicio/052YtmSiVJosdKqmfAZ0kXyXj7jVkYhWd1HnKwsa.jpg",
+		"nombre_imagen": "upload.jpg",
+		"estado": "ACTIVO",
+		"created_at": "2021-09-18 00:00:11",
+		"updated_at": "2021-09-18 00:06:57"
+	},
+	{
+		"id": 3,
+		"nombre": "Servicio",
+		"descripcion": "De horas",
+		"precio": "5.00",
+		"horas": "1",
+		"url_imagen": "public/Servicio/052YtmSiVJosdKqmfAZ0kXyXj7jVkYhWd1HnKwsa.jpg",
+		"nombre_imagen": "upload.jpg",
+		"estado": "ACTIVO",
+		"created_at": "2021-09-18 00:00:11",
+		"updated_at": "2021-09-18 00:06:57"
+	}
+]
