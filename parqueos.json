@@ -1,0 +1,94 @@
+[{
+		"id": 1,
+		"url_image": "public/Parqueo/fdsfdfdsf.jpg",
+		"latitud": "-4564564566",
+		"longitud": "45345345",
+		"codigo": "COD05",
+		"estado": "ACTIVO",
+		"created_at": "2021-09-15 202020",
+		"updated_at": "2021-09-15 202020"
+	},
+	{
+		"id": 2,
+		"url_image": "public/Parqueo/fdsfdfdsf.jpg",
+		"latitud": "-4564564566",
+		"longitud": "45345345",
+		"codigo": "COD06",
+		"estado": "ACTIVO",
+		"created_at": "2021-09-15 202020",
+		"updated_at": "2021-09-15 202020"
+	},
+	{
+		"id": 3,
+		"url_image": "public/Parqueo/fdsfdfdsf.jpg",
+		"latitud": "-4564564566",
+		"longitud": "45345345",
+		"codigo": "COD07",
+		"estado": "ACTIVO",
+		"created_at": "2021-09-15 202020",
+		"updated_at": "2021-09-15 202020"
+	},
+	{
+		"id": 4,
+		"url_image": "public/Parqueo/fdsfdfdsf.jpg",
+		"latitud": "-4564564566",
+		"longitud": "45345345",
+		"codigo": "COD08",
+		"estado": "ACTIVO",
+		"created_at": "2021-09-15 202020",
+		"updated_at": "2021-09-15 202020"
+	},
+	{
+		"id": 5,
+		"url_image": "public/Parqueo/fdsfdfdsf.jpg",
+		"latitud": "-4564564566",
+		"longitud": "45345345",
+		"codigo": "COD09",
+		"estado": "ACTIVO",
+		"created_at": "2021-09-15 202020",
+		"updated_at": "2021-09-15 202020"
+	},
+	{
+		"id": 6,
+		"url_image": "public/Parqueo/fdsfdfdsf.jpg",
+		"latitud": "-4564564566",
+		"longitud": "45345345",
+		"codigo": "COD11",
+		"estado": "ACTIVO",
+		"created_at": "2021-09-15 202020",
+		"updated_at": "2021-09-15 202020"
+	},
+	{
+		"id": 7,
+		"url_image": "public/Parqueo/fdsfdfdsf.jpg",
+		"latitud": "-4564564566",
+		"longitud": "45345345",
+		"codigo": "COD13",
+		"estado": "ACTIVO",
+		"created_at": "2021-09-15 202020",
+		"updated_at": "2021-09-15 202020"
+	},
+	{
+		"id": 8,
+		"url_image": "public/Parqueo/fdsfdfdsf.jpg",
+		"latitud": "-4564564566",
+		"longitud": "45345345",
+		"codigo": "COD15",
+		"estado": "ACTIVO",
+		"created_at": "2021-09-15 202020",
+		"updated_at": "2021-09-15 202020"
+	},
+
+	{
+		"id": 9,
+		"url_image": "public/Parqueo/fdsfdfdsf.jpg",
+		"latitud": "-4564564566",
+		"longitud": "45345345",
+		"codigo": "COD16",
+		"estado": "ACTIVO",
+		"created_at": "2021-09-15 202020",
+		"updated_at": "2021-09-15 202020"
+	}
+
+
+]
