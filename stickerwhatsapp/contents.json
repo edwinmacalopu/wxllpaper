@@ -7,7 +7,7 @@
       "identifier": "1",
       "name": "testttt",
       "publisher": "Jane Doe",
-      "tray_image_file": "tray_Cuppy.png",
+      "tray_image_file": "CAN.png",
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "",
@@ -36,7 +36,7 @@
       "identifier": "2",
       "name": "TEST2",
       "publisher": "World Health Organization",
-      "tray_image_file": "01.png",
+      "tray_image_file": "CAN.png",
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "",
@@ -55,7 +55,7 @@
           ]
         },
         {
-          "image_file": "bieb.webp",
+          "image_file": "bien.webp",
           "emojis": [
             "🙏",
             "🦸‍♀️",
