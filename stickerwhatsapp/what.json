@@ -29,14 +29,9 @@
             "😀"
           ]
         },
-        {
-          "image_file": "03_Cuppy_rofl.webp",
-          "emojis": [
-            "😆",
-            "😂"
-          ]
-        },
          
+      ]
+    },
     {
       "identifier": "2",
       "name": "Together While Apart",
@@ -66,6 +61,8 @@
             "🙏"
           ]
         },
- 
+        
+      ]
+    }
   ]
 }
