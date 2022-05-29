@@ -15,21 +15,21 @@
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
+        
         {
-          "image_file": "01_Cuppy_smile.webp",
+          "image_file": "24_Cuppy_phone.webp",
           "emojis": [
-            "☕",
-            "🙂"
+            "📱",
+            "😦"
           ]
         },
         {
-          "image_file": "02_Cuppy_lol.webp",
+          "image_file": "25_Cuppy_battery.webp",
           "emojis": [
-            "😄",
-            "😀"
+            "🔋",
+            "😵"
           ]
-        },
-         
+        }
       ]
     },
     {
@@ -45,23 +45,23 @@
       "license_agreement_website": "",
       "animated_sticker_pack": true,
       "stickers": [
+       
         {
-          "image_file": "01_SendingLove.webp",
+          "image_file": "20_SuperheroNurse.webp",
           "emojis": [
-            "🥰",
-            "😘",
-            "❤️"
+            "👩‍⚕",
+            "👨‍⚕️",
+            "🩺"
           ]
         },
         {
-          "image_file": "02_WellDoThisTogether.webp",
+          "image_file": "21_YouAreMyHero.webp",
           "emojis": [
-            "✊",
-            "💪",
-            "🙏"
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
           ]
-        },
-        
+        }
       ]
     }
   ]
