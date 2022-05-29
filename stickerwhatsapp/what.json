@@ -5,7 +5,7 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Cuppy",
+      "name": "testttt",
       "publisher": "Jane Doe",
       "tray_image_file": "tray_Cuppy.png",
       "image_data_version": "1",
@@ -17,14 +17,14 @@
       "stickers": [
         
         {
-          "image_file": "24_Cuppy_phone.webp",
+          "image_file": "bien.webp",
           "emojis": [
             "📱",
             "😦"
           ]
         },
         {
-          "image_file": "25_Cuppy_battery.webp",
+          "image_file": "doc.webp",
           "emojis": [
             "🔋",
             "😵"
@@ -34,7 +34,7 @@
     },
     {
       "identifier": "2",
-      "name": "Together While Apart",
+      "name": "TEST2",
       "publisher": "World Health Organization",
       "tray_image_file": "01.png",
       "image_data_version": "1",
@@ -47,7 +47,7 @@
       "stickers": [
        
         {
-          "image_file": "20_SuperheroNurse.webp",
+          "image_file": "sad.webp",
           "emojis": [
             "👩‍⚕",
             "👨‍⚕️",
@@ -55,7 +55,7 @@
           ]
         },
         {
-          "image_file": "21_YouAreMyHero.webp",
+          "image_file": "bieb.webp",
           "emojis": [
             "🙏",
             "🦸‍♀️",
