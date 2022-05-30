@@ -8,7 +8,7 @@
       "name": "testttt",
       "publisher": "Jane Doe",
       "tray_image_file": "CAN.png",
-      "image_data_version": "1",
+      "image_data_version": "2",
       "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
@@ -33,7 +33,8 @@
         {
           "image_file": "jorge.webp",
           "emojis": [
-            "🦸‍"
+            "🦸‍",
+           "🩺"
           ]
         }
       ]
