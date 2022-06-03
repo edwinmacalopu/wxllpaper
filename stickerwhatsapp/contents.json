@@ -70,6 +70,31 @@
           ]
         }
       ]
+    },
+   {
+      "identifier": "3",
+      "name": "Gobierno",
+      "publisher": "StickerPeruanosplus",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+       
+        {
+          "image_file": "loveviz.webp",
+          "emojis": [
+            "👩‍⚕",
+            "👨‍⚕️",
+            "🩺"
+          ]
+        }
+         
+      ]
     }
   ]
 }
