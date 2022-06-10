@@ -19,22 +19,19 @@
         {
           "image_file": "bien.webp",
           "emojis": [
-            "📱",
-            "😦"
+            "📱"
           ]
         },
         {
           "image_file": "umm.webp",
           "emojis": [
-            "🔋",
-            "😵"
+            "🔋"
           ]
         },
         {
           "image_file": "jorge.webp",
           "emojis": [
-            "🦸‍",
-           "🩺"
+            "🦸‍"
           ]
         }
       ]
@@ -56,17 +53,13 @@
         {
           "image_file": "sad.webp",
           "emojis": [
-            "👩‍⚕",
-            "👨‍⚕️",
-            "🩺"
+            "👩‍⚕"
           ]
         },
         {
           "image_file": "bien.webp",
           "emojis": [
-            "🙏",
-            "🦸‍♀️",
-            "🦸"
+            "🙏"
           ]
         }
       ]
@@ -88,9 +81,7 @@
         {
           "image_file": "loveviz.webp",
           "emojis": [
-            "👩‍⚕",
-            "👨‍⚕️",
-            "🩺"
+            "👩‍⚕"
           ]
         }
          
@@ -98,7 +89,7 @@
     },
       {
       "identifier": "4",
-      "name": "Selección",
+      "name": "Seleccion",
       "publisher": "StickerPeruanosplus",
       "tray_image_file": "tray.png",
       "image_data_version": "1",
@@ -113,18 +104,15 @@
         {
           "image_file": "gool.webp",
           "emojis": [
-            "👨‍⚕️",
-            "🩺"
+            "👨‍⚕️"
           ]
         },
         {
           "image_file": "edisonzzz.webp",
           "emojis": [
-            "😦",
-            "👨‍"
+            "😦"
           ]
-        }
-         
+        }         
       ]
     }
   ]
