@@ -112,7 +112,13 @@
           "emojis": [
             "😦"
           ]
-        }         
+        } ,
+        {
+          "image_file": "edison2.webp",
+          "emojis": [
+            "🙏"
+          ]
+        }          
       ]
     }
   ]
