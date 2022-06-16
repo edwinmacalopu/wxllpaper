@@ -118,7 +118,13 @@
           "emojis": [
             "🙏"
           ]
-        }          
+        },
+       {
+          "image_file": "chela.webp",
+          "emojis": [
+            "🔋"
+          ]
+        }
       ]
     }
   ]
